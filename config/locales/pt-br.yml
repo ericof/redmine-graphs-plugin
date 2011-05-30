@@ -1,0 +1,9 @@
+pt-br:
+  label_graphs: Gráficos
+  label_graphs_total_vs_closed_issues: Tickets abertos vs. Tickets fechados
+  label_graphs_old_issues: Tempo de vida de ticket
+  label_graphs_issue_growth: Total de tickets ao longo do tempo
+  label_graphs_issue_status_flow: Mudanças recentes de estado (últimas 24h)
+  label_graphs_assigned_to_status_flow: Últimas atribuições recentes (últimas 24h)
+  warning_no_issues: Nenhum ticket para criar o gráfico
+  
